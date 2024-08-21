@@ -1,3 +1,3 @@
 # Interview_Analysis_NLP
 
-NLP analysis using spacy
+NLP analysis using Spacy and NLTK VADER
